@@ -5,9 +5,15 @@ Improved estimates of mangrove cover and change reveal catastrophic deforestatio
 
 
 ## Table of Contents
+- [Overview](#overview)
 - [Abstract](#abstract)
+- [Citation](#citation)
 - [License](#license)
 
+
+<a name="overview"></a>
+## Overview
+This repository contains the materials used for my mangrove cover change analysis paper published in [Environmental Research Letters](https://iopscience.iop.org/journal/1748-9326) journal on March 2020. The paper, both the [main paper](https://iopscience.iop.org/article/10.1088/1748-9326/ab666d) and [supplementary material](https://iopscience.iop.org/1748-9326/15/3/034034/media/ERL_15_3_034034_suppdata.pdf), is published open-access and can be downloaded for free under a [CC BY 3.0 license](#license). The materials provided in this repository serve to supplement the published paper by creating a backup of the materials used in and developed through the study, to encourage doing better science by fostering reproducibility and transparency, and to improve the overall impact of the research—both for other researchers and my future self.
 
 <a name="abstract"></a>
 ## Abstract
