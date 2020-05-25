@@ -19,7 +19,6 @@ De Alban, J.D.T., J. Jamaludin, D.W. Wong, M.M. Than, E.L. Webb (2020). Improved
 
 **BibTeX entry:**
 ```
-
 @article{de_alban_improved_2020,
 	title = {Improved estimates of mangrove cover and change reveal catastrophic deforestation in {Myanmar}},
 	volume = {15},
@@ -37,7 +36,6 @@ De Alban, J.D.T., J. Jamaludin, D.W. Wong, M.M. Than, E.L. Webb (2020). Improved
 	note = {Publisher: IOP Publishing},
 	pages = {034034},
 }
-
 ```
 
 <a name="license"></a>
