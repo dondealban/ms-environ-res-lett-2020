@@ -7,6 +7,7 @@ Improved estimates of mangrove cover and change reveal catastrophic deforestatio
 ## Table of Contents
 - [Overview](#overview)
 - [Abstract](#abstract)
+- [Scripts](#scripts)
 - [Citation](#citation)
 - [License](#license)
 
